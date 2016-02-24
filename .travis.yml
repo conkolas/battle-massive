@@ -1,3 +1,4 @@
+sudo: required
 language: C#
 osx_image: xcode61
 rvm:
